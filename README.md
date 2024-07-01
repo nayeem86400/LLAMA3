@@ -1,2 +1,2 @@
 # LLAMA3
-A naive RAG repo for LLama 3, chroma db, faiss db and unstructure client 
+A naive RAG repo built with LLama3, chroma_db, faiss_db and unstructured client 
